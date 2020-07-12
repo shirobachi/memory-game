@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+
+body
+{
+	background-color: #666;
+	color: white;
+}
+
+#game
+{
+	margin: 0 auto;
+	width: 468px;
+}
+
+.tile
+{
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	margin: 3px;
+	font-size: 115px;
+	font-family: 'Modak', cursive;
+	background-color: SeaGreen;
+	float: left;
+}
+
+#mainTile
+{
+	font-size: 36px;
+	background-color: RoyalBlue;
+	padding-top: 45px;
+	height: 105px;
+}
